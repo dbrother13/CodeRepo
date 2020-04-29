@@ -1,5 +1,5 @@
 /* HelloWorld.java
-sample++
+sample+
  */
 
 public class HelloWorld
