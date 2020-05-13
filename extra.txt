@@ -7,3 +7,5 @@ added line
 branch_3: commit 1
 branch_3: commit 2
 branch_3: commit 3
+
+added from other workspace
