@@ -1,2 +1,0 @@
-# CodeRepo
-learning repository
