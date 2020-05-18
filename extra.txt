@@ -1,14 +1,5 @@
 //! master start
-
 version 1.0
-master update 1
 123
 456
-rty
-4
-stage_4_1
-stage 4 1
-
-stage 4_2
-stage_4 3
 /! master  end
