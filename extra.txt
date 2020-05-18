@@ -1,6 +1,12 @@
+# merged master in branch 4
 // start branch_10
 123
 456
 678
 //added
 // end branch_10
+//! branch_4 start
+version 2.0
+123
+456
+//! branch_4 end
