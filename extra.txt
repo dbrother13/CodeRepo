@@ -1,15 +1,14 @@
-version 1.0
+#start
 
+version 1.0
+master update 1
 123
 456
 rty
-888888888888888
 4
 stage_4_1
-<<<<<<< HEAD
 stage 4 1
 
-=======
 stage 4_2
 stage_4 3
->>>>>>> 8f8727e78cd2444ce658964ab30d7272bce1cad4
+/! The end
