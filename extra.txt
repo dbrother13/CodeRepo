@@ -1,17 +1,7 @@
+//! master start
+version 1.0
 123
 456
-<<<<<<< HEAD
-888888888888888999999999999999999999
-4
-added line
-
-branch_3: commit 1
-branch_3: commit 2
-branch_3: commit 3
-
-added from other workspace
-rty
-888888888888888
-4
-stage_4_1
-stage 4 1
+999
+/! master  end
+//added
