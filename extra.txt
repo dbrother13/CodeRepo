@@ -1,5 +1,5 @@
 //! master start - changed 1
-version 1.0
+0000000version 1.0
 123
 456
 999
