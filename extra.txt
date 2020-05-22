@@ -1,7 +1,7 @@
-//! master start - changed 1
+//! master start - changed 1i
 0000000version 1.0
 123
-456
+0456
 999
 /! master  end
 //added master one step
