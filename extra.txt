@@ -1,5 +1,6 @@
+//commit 1
 //! master start - changed 1i
-0000000version 1.0
+version 1.0
 123
 0456
 999
